@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/Docs/Users/brnunes/Documents/Workspace/cmu/security/EMV-NFC-Paycard-Enrollment/EMV-NFC-Paycard-Enrollment.iml" filepath="/Volumes/Docs/Users/brnunes/Documents/Workspace/cmu/security/EMV-NFC-Paycard-Enrollment/EMV-NFC-Paycard-Enrollment.iml" />
+      <module fileurl="file:///Volumes/Docs/Users/brnunes/Documents/Workspace/cmu/security/EMV-NFC-Paycard-Enrollment/app/app.iml" filepath="/Volumes/Docs/Users/brnunes/Documents/Workspace/cmu/security/EMV-NFC-Paycard-Enrollment/app/app.iml" />
+      <module fileurl="file:///Volumes/Docs/Users/brnunes/Documents/Workspace/cmu/security/EMV-NFC-Paycard-Enrollment/lib/lib.iml" filepath="/Volumes/Docs/Users/brnunes/Documents/Workspace/cmu/security/EMV-NFC-Paycard-Enrollment/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
